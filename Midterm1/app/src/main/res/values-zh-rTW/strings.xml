@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Midterm</string>
+    <string name="male">男性</string>
+    <string name="female">女性</string>
+    <string name="regularticket">成人票</string>
+    <string name="childticket">孩童票</string>
+    <string name="studentticket">學生票</string>
+    <string name="confirm">確定</string>
+    <string name="numberOfTickets">張數 :</string>
+    <string name="gender">性別 :</string>
+    <string name="total">金額 :</string>
+    <string name="rdTYpe">票種 :</string>
+</resources>
